@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14DFBEF6-E941-4AD8-8AE7-1334B595672A}|LibraryManagementSystem\\LibraryManagementSystem.csproj|e:\\projects\\librarymanagementsystem\\librarymanagementsystem\\userregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14DFBEF6-E941-4AD8-8AE7-1334B595672A}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\userregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DFBEF6-E941-4AD8-8AE7-1334B595672A}|LibraryManagementSystem\\LibraryManagementSystem.csproj|e:\\projects\\librarymanagementsystem\\librarymanagementsystem\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14DFBEF6-E941-4AD8-8AE7-1334B595672A}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DFBEF6-E941-4AD8-8AE7-1334B595672A}|LibraryManagementSystem\\LibraryManagementSystem.csproj|e:\\projects\\librarymanagementsystem\\librarymanagementsystem\\reservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14DFBEF6-E941-4AD8-8AE7-1334B595672A}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\reservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DFBEF6-E941-4AD8-8AE7-1334B595672A}|LibraryManagementSystem\\LibraryManagementSystem.csproj|e:\\projects\\librarymanagementsystem\\librarymanagementsystem\\bookregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14DFBEF6-E941-4AD8-8AE7-1334B595672A}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\bookregistrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRegistrationForm.cs [Design]",
+              "DocumentMoniker": "E:\\Projects\\LibraryManagementSystem\\LibraryManagementSystem\\UserRegistrationForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\UserRegistrationForm.cs",
+              "ToolTip": "E:\\Projects\\LibraryManagementSystem\\LibraryManagementSystem\\UserRegistrationForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\UserRegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:21:21.556Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReturnForm.cs [Design]",
+              "DocumentMoniker": "E:\\Projects\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReturnForm.cs",
+              "ToolTip": "E:\\Projects\\LibraryManagementSystem\\LibraryManagementSystem\\ReturnForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\ReturnForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:20:21.735Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationForm.cs [Design]",
+              "DocumentMoniker": "E:\\Projects\\LibraryManagementSystem\\LibraryManagementSystem\\ReservationForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\ReservationForm.cs",
+              "ToolTip": "E:\\Projects\\LibraryManagementSystem\\LibraryManagementSystem\\ReservationForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\ReservationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T02:19:29.312Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRegistrationForm.cs [Design]",
+              "DocumentMoniker": "E:\\Projects\\LibraryManagementSystem\\LibraryManagementSystem\\BookRegistrationForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\BookRegistrationForm.cs",
+              "ToolTip": "E:\\Projects\\LibraryManagementSystem\\LibraryManagementSystem\\BookRegistrationForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagementSystem\\BookRegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:03:02.794Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
